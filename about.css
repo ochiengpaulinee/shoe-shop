@@ -1,0 +1,52 @@
+.container Ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 60px;
+    text-align: center;
+}
+.container{
+    margin-left: 200px;
+}
+.us{
+    margin-top: 10%;
+    margin-left: 14%;
+}
+.fr{
+    display: flex;
+}
+#friends{
+    width: 70%;
+    margin-left: 10%;
+}
+#more{
+    width: 200px;
+    height: 40px;
+    margin-left: 40%;
+    border-radius: 10px;
+    background-color:chocolate;
+    color: white;
+}
+.footer{
+    display: flex;
+     background-color: darkred;
+     height: 500px;
+     color: white;
+     margin-top: 10px;
+ }
+ .luku1{
+     margin-left: 150px;
+     margin-top: 30px;
+ }
+ .luku{
+     margin-left: 300px;
+     margin-top: 30px;
+ }
+ .luku2{
+     margin-left: 100px;
+     margin-top: 30px;
+ } #rights{
+    margin-left: 90px;
+    margin-top: 60px;
+   }

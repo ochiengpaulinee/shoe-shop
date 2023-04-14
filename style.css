@@ -1,0 +1,86 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+p{
+    font-size: 50px;
+    color: darkred;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+#shoe1{
+    float: right;
+    margin-right: 20px;
+    width: 30%;
+}
+#shoe2{
+    float: right;
+    margin-right: 40px;
+    width: 30%;
+}
+#shoe3{
+    float: left;
+    margin-left: 30px;
+    width: 30%;
+}
+#p1{
+    text-align: center;
+    font-style: italic;
+}
+.container Ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 60px;
+    text-align: center;
+}
+.container{
+    margin-left: 170px;
+}
+#more{
+    width: 180px;
+    height: 40px;
+    margin-left: 550px;
+    border-radius: 10px;
+    background-color: #FFD600;
+    margin-top: 30px;
+}
+.shoes{
+    display: flex;
+}
+.footer{
+   display: flex;
+    background-color: darkred;
+    height: 200px;
+    color: white;
+    margin-top: 10px;
+}
+.luku1{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.luku{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.luku2{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#game{
+    font-size: 30px;
+    font-style: italic;
+}
+#house{
+    font-size: 100px;
+    color: darkred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#rights{
+    margin-top: 30px;
+}

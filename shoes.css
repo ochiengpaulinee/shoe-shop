@@ -1,0 +1,154 @@
+.container Ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 60px;
+    text-align: center;
+}
+.container{
+    margin-left: 200px;
+}
+#sh{
+    width: 100px;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 53px;
+}
+.search{
+    display: flex;
+    background-color: darkred;
+}
+#lk{
+    margin-left: 30px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkred;
+}
+#ph{
+    margin-left: 30px;
+    width: 400px;
+    height: 40px;
+    margin-top: 53px;
+    border-radius: 10px;
+}
+#button1{
+    margin-left: 30px;
+    width: 150px;
+    height: 45px;
+    margin-top: 53px;
+    border-radius: 10px;
+    background-color: #FFD600;
+}
+#account{
+    margin-top: 69px;
+    margin-left: 10px;
+    color: white;
+}
+#icon1{
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+#icon2{
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+#help{
+    margin-top: 69px;
+    margin-left: 10px;
+    color: white;
+}
+#icon3{
+    margin-top: 60px;
+    margin-left: 30px;
+    font-size: 40px;
+}
+#cart{
+    margin-top: 69px;
+    margin-left: 10px;
+    color: white;
+}
+.men{
+    border: solid;
+    width:200px;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    height: 300px;
+    text-align: center;
+}
+.gents{
+    display: flex;
+}
+#sn{
+    margin-left: 350px;
+}
+#s1{
+    margin-left: 30px;
+}
+#five{
+    margin-left: 80px;
+    margin-top: -7%;
+    color: darkred;
+}
+#s2{
+    margin-left: 70%;
+    margin-top: -45%;
+}
+#two{
+    margin-left: 80%;
+    margin-top: -7%;
+    color: darkred;
+}
+#s3{
+    margin-left: 140%;
+    margin-top: -39%;
+}
+#nine{
+    float: right;
+    margin-right: -70%;
+    color: darkred;
+}
+#more{
+    margin-left: 70%;
+    width: 30%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: darkred;
+    color: white;
+}
+#ts{
+    margin-left: 630px;
+    margin-top: 10%;
+}
+#b1{
+    margin-left: 300px;
+
+}
+#on{
+  margin-left: 400px;
+  color: darkred;
+}
+#b2{
+    margin-left: 650px;
+    margin-top: -50%;
+}
+#three{
+    margin-left: 60%;
+    color: darkred;
+}
+#b3{
+    margin-left: 1000px;
+    margin-top: -99%;
+}
+#four{
+    margin-left: 1050px;
+    margin-top: -3%;
+    color: darkred;
+}
+.jp{
+    margin-top: -5%;
+}
